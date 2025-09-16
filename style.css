@@ -1,0 +1,29 @@
+body {
+    background-color: lightyellow;
+    color: deeppink;
+
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightpink;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightpink;
+}
+
+a {
+    color: darkorchid;
+    background-color: lightpink;
+}
+
+p {
+    background-color: lightblue;
+    color: aliceblue;
+}
+ul {
+    background-color: lightblue;
+    color: aliceblue;
+}
